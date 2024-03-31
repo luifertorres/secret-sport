@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SecretSport": {
+      "commandName": "Project",
+      "commandLineArgs": "7\r\n5\r\nABBAA\r\n3\r\nBBB\r\n7\r\nBBAAABA\r\n20\r\nAAAAAAAABBBAABBBBBAB\r\n1\r\nA\r\n13\r\nAAAABABBABBAB\r\n7\r\nBBBAAAA"
+    }
+  }
+}
